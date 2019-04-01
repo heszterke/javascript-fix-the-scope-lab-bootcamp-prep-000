@@ -28,4 +28,4 @@ var theFunk = funkyFunction(){
   return "FUNKY!";
 }
 
-theFunk;
+theFunk();
